@@ -1,8 +1,5 @@
 {
   "name": "ecoware-website",
   "version": "1.0.0",
-  "description": "EcoWare Solutions static website",
-  "scripts": {
-    "build": "node build.js"
-  }
+  "description": "EcoWare Solutions static website"
 }
